@@ -1,2 +1,3 @@
 payload:
   - DOMAIN-SUFFIX,googlevideo.com
+  - DOMAIN,video.twimg.com
