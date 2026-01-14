@@ -4,3 +4,4 @@ payload:
   - DOMAIN-SUFFIX,nodeseek.com
   - DOMAIN-SUFFIX,sehuatang.net
   - DOMAIN-SUFFIX,guguyun.com
+  - DOMAIN-SUFFIX,rfchost.com
