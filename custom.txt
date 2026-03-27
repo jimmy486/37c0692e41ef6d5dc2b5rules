@@ -1,7 +1,11 @@
 payload:
   - IP-CIDR,47.100.229.126/32
   - IP-CIDR,43.142.25.55/32
+  - IP-CIDR,47.100.229.126/32
+  - IP-CIDR,43.142.25.55/32
   - DOMAIN-SUFFIX,nodeseek.com
   - DOMAIN-SUFFIX,sehuatang.net
   - DOMAIN-SUFFIX,guguyun.com
   - DOMAIN-SUFFIX,rfchost.com
+  - DOMAIN-SUFFIX,amizhu.net
+  - DOMAIN-SUFFIX,mizhu.top  
