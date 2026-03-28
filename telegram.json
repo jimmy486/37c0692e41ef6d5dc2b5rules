@@ -60,16 +60,6 @@
         "2001:b28:f23d::/48",
         "2a0a:f280::/29"
       ]
-    },
-    {
-      "process_name": [
-        "telegram-desktop",
-        "tw.nekomimi.nekogram",
-        "xyz.nextalone.nagram",
-        "nekox.messenger",
-        "org.telegram.messenger",
-        "Telegram.exe"
-      ]
     }
   ],
   "version": 2
