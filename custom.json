@@ -3,16 +3,9 @@
   "rules": [
     {
       "domain_suffix": [
-		"bandwagonhost.com",
-		"dmit.io",
-		"racknerd.com",
-		"linveo.com",
-		"crunchbits.com",
 		"mizhu.top",
 		"mizhu.site",
 		"amizhu.net",
-		"hostloc.com",
-		"nodeseek.com",
 		"mypikpak.com",
 		"m-team.cc",
 		"m-team.co",
@@ -20,7 +13,9 @@
 		"colux.net",
 		"koofr.net",
 		"pcloud.com",
-		"icedrive.net"
+		"icedrive.net",
+		"googlevideo.com",
+		"video.twimg.com"  
       ],
 	  "ip_cidr": [
 		"47.100.229.0/24",
