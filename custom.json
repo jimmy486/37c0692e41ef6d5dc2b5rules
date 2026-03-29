@@ -15,7 +15,9 @@
 		"pcloud.com",
 		"icedrive.net",
 		"googlevideo.com",
-		"video.twimg.com"  
+		"twimg.com",
+		"twimg.co",
+		"twimg.org"
       ],
 	  "ip_cidr": [
 		"47.100.229.0/24",
