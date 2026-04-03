@@ -17,7 +17,8 @@
 		"googlevideo.com",
 		"twimg.com",
 		"twimg.co",
-		"twimg.org"
+		"twimg.org",
+		"immersivetranslate.com"
       ],
 	  "ip_cidr": [
 		"47.100.229.0/24",
