@@ -1,4 +1,76 @@
 payload:
+  - DOMAIN-KEYWORD,18comic
+  - DOMAIN-KEYWORD,anon-v
+  - DOMAIN-KEYWORD,avmoo
+  - DOMAIN-KEYWORD,bdsmhub
+  - DOMAIN-KEYWORD,bilibili2
+  - DOMAIN-KEYWORD,boboporn
+  - DOMAIN-KEYWORD,bongacams
+  - DOMAIN-KEYWORD,boylove
+  - DOMAIN-KEYWORD,bttzyw
+  - DOMAIN-KEYWORD,camwhores
+  - DOMAIN-KEYWORD,cavporn
+  - DOMAIN-KEYWORD,chatwhores
+  - DOMAIN-KEYWORD,clips4sale
+  - DOMAIN-KEYWORD,coomer
+  - DOMAIN-KEYWORD,cuinc
+  - DOMAIN-KEYWORD,dlsite
+  - DOMAIN-KEYWORD,dmm-porn
+  - DOMAIN-KEYWORD,ehentai
+  - DOMAIN-KEYWORD,erolabs
+  - DOMAIN-KEYWORD,fans66
+  - DOMAIN-KEYWORD,fansta
+  - DOMAIN-KEYWORD,haitang
+  - DOMAIN-KEYWORD,hentaichen
+  - DOMAIN-KEYWORD,hentaivn
+  - DOMAIN-KEYWORD,heyzo
+  - DOMAIN-KEYWORD,hooligapps
+  # Dead - DOMAIN-KEYWORD,illusion
+  - DOMAIN-KEYWORD,illusion-nonofficial
+  - DOMAIN-KEYWORD,illgames
+  - DOMAIN-KEYWORD,jable
+  - DOMAIN-KEYWORD,japonx
+  - DOMAIN-KEYWORD,javbus
+  - DOMAIN-KEYWORD,javcc
+  - DOMAIN-KEYWORD,javdb
+  - DOMAIN-KEYWORD,javwide
+  - DOMAIN-KEYWORD,jkf
+  - DOMAIN-KEYWORD,johren
+  - DOMAIN-KEYWORD,justav
+  - DOMAIN-KEYWORD,kemono
+  - DOMAIN-KEYWORD,konachan
+  - DOMAIN-KEYWORD,kubakuba
+  - DOMAIN-KEYWORD,lethalhardcore
+  - DOMAIN-KEYWORD,lisiku
+  - DOMAIN-KEYWORD,metart
+  - DOMAIN-KEYWORD,mindgeek-porn
+  - DOMAIN-KEYWORD,missav
+  - DOMAIN-KEYWORD,moxing
+  - DOMAIN-KEYWORD,netflav
+  - DOMAIN-KEYWORD,nudevista
+  - DOMAIN-KEYWORD,picacg
+  - DOMAIN-KEYWORD,playboy
+  - DOMAIN-KEYWORD,pornhub
+  - DOMAIN-KEYWORD,pornpros
+  - DOMAIN-KEYWORD,projectpoi
+  - DOMAIN-KEYWORD,sehuatang
+  - DOMAIN-KEYWORD,shireyishunjian
+  - DOMAIN-KEYWORD,smtiaojiaoshi
+  - DOMAIN-KEYWORD,spankbang
+  - DOMAIN-KEYWORD,swag
+  - DOMAIN-KEYWORD,theporndude
+  - DOMAIN-KEYWORD,thescoregroup
+  - DOMAIN-KEYWORD,tokyo-toshokan
+  - DOMAIN-KEYWORD,truyen-hentai
+  - DOMAIN-KEYWORD,uu-chat
+  - DOMAIN-KEYWORD,xhamster
+  - DOMAIN-KEYWORD,xingkongwuxianmedia
+  - DOMAIN-KEYWORD,xnxx
+  - DOMAIN-KEYWORD,xvideos
+  - DOMAIN-KEYWORD,youjizz
+  - DOMAIN-KEYWORD,yunlaopo
+  - DOMAIN-KEYWORD,zhimeishe
+########################
   - DOMAIN-SUFFIX,0.oldgyhogola.com
   - DOMAIN-SUFFIX,0.xd-cdn.com
   - DOMAIN-SUFFIX,007angels.com
