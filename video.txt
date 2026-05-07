@@ -1,5 +1,6 @@
 payload:
   - DOMAIN-SUFFIX,googlevideo.com
   - DOMAIN,video.twimg.com
+  - DOMAIN-SUFFIX,cdninstagram.com
   - DOMAIN-SUFFIX,ymawv.la
   - DOMAIN-SUFFIX,ldkms.la
