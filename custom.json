@@ -25,8 +25,9 @@
         "speed.cloudflare.com",
         "fast.com",
         "speed.dler.io",
+		"cp.cloudflare.com",
 		"ymawv.la",
-		"cp.cloudflare.com"
+		"ldkms.la"		
       ],
 	  "ip_cidr": [
 		"47.100.229.0/24",
