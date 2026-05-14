@@ -4,3 +4,4 @@ payload:
   - DOMAIN-SUFFIX,cdninstagram.com
   - DOMAIN-SUFFIX,ymawv.la
   - DOMAIN-SUFFIX,ldkms.la
+  - DOMAIN-SUFFIX,ewrewej.la
