@@ -1,5 +1,4 @@
 payload:
-  - IP-CIDR,124.221.149.76/32
   - DOMAIN-SUFFIX,nodeseek.com
   - DOMAIN-SUFFIX,sehuatang.net
   - DOMAIN-SUFFIX,guguyun.com
