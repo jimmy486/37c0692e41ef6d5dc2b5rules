@@ -3,6 +3,7 @@ payload:
   - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
   - DOMAIN,video.twimg.com
   - DOMAIN-SUFFIX,cdninstagram.com
+  - DOMAIN-SUFFIX,githubusercontent.com
   - DOMAIN-SUFFIX,ymawv.la
   - DOMAIN-SUFFIX,ldkms.la
   - DOMAIN-SUFFIX,ewrewej.la
