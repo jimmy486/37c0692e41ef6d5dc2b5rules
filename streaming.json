@@ -1,0 +1,35 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+		"mypikpak.com",
+		"m-team.cc",
+		"m-team.co",
+		"imgdd.com",
+		"colux.net",
+		"koofr.net",
+		"pcloud.com",
+		"icedrive.net",
+		"googlevideo.com",
+		"xn--ngstr-lra8j.com",
+		"twimg.com",
+		"twimg.co",
+		"twimg.org",
+		"githubusercontent.com",
+		"immersivetranslate.com",
+		"mozilla.com",
+        "speedtest.net",
+        "ooklaserver.net",
+        "speed.cloudflare.com",
+        "fast.com",
+        "speed.dler.io",
+		"cp.cloudflare.com",
+		"cdninstagram.com",
+		"ymawv.la",
+		"ldkms.la",
+		"ewrewej.la"
+      ]
+    }
+  ]
+}
