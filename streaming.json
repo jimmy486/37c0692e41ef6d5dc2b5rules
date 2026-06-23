@@ -4,7 +4,9 @@
     {
 	"domain": [
 		"speed.cloudflare.com",
-		"cp.cloudflare.com"		
+		"cp.cloudflare.com",
+		"www.gstatic.com",
+		"single.speedtest.net"
 	],		
 	"domain_suffix": [
 		"mypikpak.com",
