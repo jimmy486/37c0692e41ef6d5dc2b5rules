@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "rules": [
+    {
+	"domain_suffix": [
+		"mizhu.top",
+		"mizhu.site",
+		"amizhu.net"
+	],
+	"ip_cidr": [
+		"124.221.149.76/32"
+	]
+    }
+  ]
+}
