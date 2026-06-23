@@ -2,7 +2,11 @@
   "version": 2,
   "rules": [
     {
-      "domain_suffix": [
+	"domain": [
+		"speed.cloudflare.com",
+		"cp.cloudflare.com"		
+	],		
+	"domain_suffix": [
 		"mypikpak.com",
 		"m-team.cc",
 		"m-team.co",
@@ -19,17 +23,48 @@
 		"githubusercontent.com",
 		"immersivetranslate.com",
 		"mozilla.com",
-        "speedtest.net",
-        "ooklaserver.net",
-        "speed.cloudflare.com",
-        "fast.com",
-        "speed.dler.io",
-		"cp.cloudflare.com",
+		"speedtest.net",
+		"ooklaserver.net",
+		"fast.com",
+		"speed.dler.io",
 		"cdninstagram.com",
 		"ymawv.la",
 		"ldkms.la",
-		"ewrewej.la"
-      ]
+		"ewrewej.la",
+
+		"github.com",
+		"githubusercontent.com",
+		"githubassets.com",
+		"github.io",
+		"docker.io",
+		"docker.com",
+		"dockerhub.com",
+		"debian.org",
+		"ubuntu.com",
+		"canonical.com",
+		"centos.org",
+		"fedoraproject.org",
+		"redhat.com",
+		"alpinelinux.org",
+		"archlinux.org",
+		"npmjs.org",
+		"npmjs.com",
+		"yarnpkg.com",
+		"pypi.org",
+		"pythonhosted.org",
+		"golang.org",
+		"go.dev",
+		"proxygolang.org",
+		"maven.org",
+		"mvnrepository.com",
+		"rubygems.org",
+		"crates.io",
+		"packagist.org",
+		"cloudflare.com",
+		"fastly.net",
+		"akamai.net"
+
+	]
     }
   ]
 }
