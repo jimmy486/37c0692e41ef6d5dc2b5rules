@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "rules": [
+    {
+	"domain_suffix": [
+		"uhdnow.com"
+	],
+	"ip_cidr": [
+		"22.22.22.166/32"
+	]
+    }
+  ]
+}
