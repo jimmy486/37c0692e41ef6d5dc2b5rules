@@ -7,3 +7,4 @@ payload:
   - DOMAIN-SUFFIX,ymawv.la
   - DOMAIN-SUFFIX,ldkms.la
   - DOMAIN-SUFFIX,ewrewej.la
+  - DOMAIN-SUFFIX,djhdhs.us
