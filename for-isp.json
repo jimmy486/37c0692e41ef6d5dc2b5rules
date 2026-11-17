@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "rules": [
+    {
+	"domain_suffix": [
+		"zap-hosting.com",
+		"db-ip.com",
+		"ip2location.com",
+		"ip.sb",
+		"ip.net.coffee"
+	]
+    }
+  ]
+}
